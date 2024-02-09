@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "611002278100",
+    "firebase_url": "https://doctor-appointment-syste-14ce6-default-rtdb.firebaseio.com",
+    "project_id": "doctor-appointment-syste-14ce6",
+    "storage_bucket": "doctor-appointment-syste-14ce6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611002278100:android:4c4be2e750600cda7b5b41",
+        "android_client_info": {
+          "package_name": "com.example.doctorappointmentsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKDEGsocfK7-Dd6EycmKmMNP5GhSrF5nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
