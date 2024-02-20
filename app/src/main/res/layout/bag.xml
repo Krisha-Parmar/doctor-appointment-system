@@ -34,121 +34,6 @@
         app:layout_constraintTop_toBottomOf="@+id/textView31"
         app:layout_constraintVertical_bias="0.014" />
 
-    <ImageView
-        android:id="@+id/imageView30"
-        android:layout_width="328dp"
-        android:layout_height="591dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.457"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.633"
-        app:srcCompat="@drawable/img_22" />
-
-    <Button
-        android:id="@+id/button3"
-        android:layout_width="106dp"
-        android:layout_height="30dp"
-        android:fontFamily="@font/assistant_bold"
-        android:onClick="dr1layout"
-        android:text="Appointment"
-        android:textColor="@color/white"
-        android:textSize="9sp"
-        app:backgroundTint="@color/grey"
-        app:cornerRadius="7dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.154"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.348" />
-
-    <Button
-        android:id="@+id/button9"
-        android:layout_width="106dp"
-        android:layout_height="30dp"
-        android:fontFamily="@font/assistant_bold"
-        android:text="Appointment"
-        android:textColor="@color/white"
-        android:textSize="10sp"
-        app:backgroundTint="@color/grey"
-        app:cornerRadius="7dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.793"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.84" />
-
-    <Button
-        android:id="@+id/button10"
-        android:layout_width="106dp"
-        android:layout_height="30dp"
-        android:fontFamily="@font/assistant_bold"
-        android:text="Appointment"
-        android:textColor="@color/white"
-        android:textSize="10sp"
-        app:backgroundTint="@color/grey"
-        app:cornerRadius="7dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.154"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.84" />
-
-    <Button
-        android:id="@+id/button6"
-        android:layout_width="106dp"
-        android:layout_height="30dp"
-        android:fontFamily="@font/assistant_bold"
-        android:text="Appointment"
-        android:textColor="@color/white"
-        android:textSize="10sp"
-        app:backgroundTint="@color/grey"
-        app:cornerRadius="7dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.793"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.596" />
-
-    <Button
-        android:id="@+id/button7"
-        android:layout_width="106dp"
-        android:layout_height="30dp"
-        android:fontFamily="@font/assistant_bold"
-        android:text="Appointment"
-        android:textColor="@color/white"
-        android:textSize="10sp"
-        app:backgroundTint="@color/grey"
-        app:cornerRadius="7dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.154"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.596" />
-
-    <Button
-        android:id="@+id/button8"
-        android:layout_width="106dp"
-        android:layout_height="30dp"
-        android:fontFamily="@font/assistant_bold"
-        android:text="Appointment"
-        android:textColor="@color/white"
-        android:textSize="10sp"
-        app:backgroundTint="@color/grey"
-        app:cornerRadius="7dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.793"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.348" />
-
     <ImageButton
         android:id="@+id/imageButton15"
         android:layout_width="48dp"
@@ -226,5 +111,7 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="1.0"
         app:srcCompat="@drawable/img_25" />
+
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
